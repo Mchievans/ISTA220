@@ -1,0 +1,7 @@
+C:\ISTA220\lab\chapter 4\RecursionExample\RecursionExample\obj\Debug\RecursionExample.csprojAssemblyReference.cache
+C:\ISTA220\lab\chapter 4\RecursionExample\RecursionExample\obj\Debug\RecursionExample.csproj.CoreCompileInputs.cache
+C:\ISTA220\lab\chapter 4\RecursionExample\RecursionExample\bin\Debug\RecursionExample.exe.config
+C:\ISTA220\lab\chapter 4\RecursionExample\RecursionExample\bin\Debug\RecursionExample.exe
+C:\ISTA220\lab\chapter 4\RecursionExample\RecursionExample\bin\Debug\RecursionExample.pdb
+C:\ISTA220\lab\chapter 4\RecursionExample\RecursionExample\obj\Debug\RecursionExample.exe
+C:\ISTA220\lab\chapter 4\RecursionExample\RecursionExample\obj\Debug\RecursionExample.pdb

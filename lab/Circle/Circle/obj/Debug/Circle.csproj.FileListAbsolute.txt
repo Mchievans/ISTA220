@@ -1,0 +1,7 @@
+C:\ISTA220\lab\Circle\Circle\bin\Debug\Circle.exe.config
+C:\ISTA220\lab\Circle\Circle\bin\Debug\Circle.exe
+C:\ISTA220\lab\Circle\Circle\bin\Debug\Circle.pdb
+C:\ISTA220\lab\Circle\Circle\obj\Debug\Circle.csprojAssemblyReference.cache
+C:\ISTA220\lab\Circle\Circle\obj\Debug\Circle.csproj.CoreCompileInputs.cache
+C:\ISTA220\lab\Circle\Circle\obj\Debug\Circle.exe
+C:\ISTA220\lab\Circle\Circle\obj\Debug\Circle.pdb
