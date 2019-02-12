@@ -14,7 +14,7 @@
 
 6.	Primitive types and value types are the same. 
 
-7.	Arithmetic operartors are used to compute variable types and are dependent on the types. Only the plus operator can be used of reference types.
+7.	Arithmetic operators are used to compute variable types and are dependent on the types. Only the plus operator can be used of reference types.
 
 8.	The .ToString() method.
 
@@ -23,10 +23,10 @@
 10.	Precedence governs the order operators are evaluated while associativity is the direction in which the operators are evaluated ignoring the precedence.  This would make a difference in the equation 2+2/2. If done by precedence it 
 equals 3, if done by associativity left to right it equals 2.
 
-11.	You must assign a varible a value in C#.
+11.	You must assign a variable a value in C#.
 
-12.	They are not evlauted differently and are computed the same however the the point at which it is evaluated is different. 
+12.	They are not evaluated differently and are computed the same however the point at which it is evaluated is different. 
 
-13.	interpolated expression items being replaced with the properly formatted string representations of their result. You can put varible names in a string and and it replace the th variable. 
+13.	interpolated expression items being replaced with the properly formatted string representations of their result. You can put variable names in a string, and it replace the variable. 
 
-14.	The var keyword instructs the computer to guess the varible type. 
+14.	The var keyword instructs the computer to guess the variable type.
