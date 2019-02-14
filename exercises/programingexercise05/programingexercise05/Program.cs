@@ -127,6 +127,8 @@ namespace programingexercise05
             {
                 Console.Write($"{A[i]},");
             }
+            //for (int i = 0; j =len -1 ; i > 0; i--)
+                //hold[i] = A[i]
         }
 
         private static void getReverseB(int[] B)
