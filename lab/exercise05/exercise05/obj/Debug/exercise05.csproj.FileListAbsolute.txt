@@ -1,0 +1,2 @@
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\exercise05\exercise05\obj\Debug\exercise05.csprojAssemblyReference.cache
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\exercise05\exercise05\obj\Debug\exercise05.csproj.CoreCompileInputs.cache

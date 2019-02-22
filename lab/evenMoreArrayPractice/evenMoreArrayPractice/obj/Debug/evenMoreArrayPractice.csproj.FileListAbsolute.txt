@@ -1,0 +1,7 @@
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\evenMoreArrayPractice\evenMoreArrayPractice\obj\Debug\evenMoreArrayPractice.csprojAssemblyReference.cache
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\evenMoreArrayPractice\evenMoreArrayPractice\obj\Debug\evenMoreArrayPractice.csproj.CoreCompileInputs.cache
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\evenMoreArrayPractice\evenMoreArrayPractice\bin\Debug\evenMoreArrayPractice.exe.config
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\evenMoreArrayPractice\evenMoreArrayPractice\bin\Debug\evenMoreArrayPractice.exe
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\evenMoreArrayPractice\evenMoreArrayPractice\bin\Debug\evenMoreArrayPractice.pdb
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\evenMoreArrayPractice\evenMoreArrayPractice\obj\Debug\evenMoreArrayPractice.exe
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\evenMoreArrayPractice\evenMoreArrayPractice\obj\Debug\evenMoreArrayPractice.pdb
