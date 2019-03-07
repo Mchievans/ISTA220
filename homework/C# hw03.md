@@ -15,21 +15,23 @@
     + a return statement is the keyword return followed by an expression that specifies the retuned value and a semicolon.
 
 1. What is an expression bodied method?
-    + its is a syntatic convenience, simplifing a method the use of a => operator instead of a return statement.  
+    + it is a syntactic convenience, simplifying a method the use of a => operator instead of a return statement.  
 
 1. What is the scope of a variable?
     + it is the when a variable can be accessed at a particular location in the program. The region where it is usable. The block where it is declared.
 
 1. What is an overloaded method?
-    + IT is when you give identfiers the same name so in the case of methods two with the same name but the implementations have different sets of parameters and different returns. Compiler distinguishes by the parameters when method is called.
+    + IT is when you give identifiers the same name so in the case of methods two with the same name but the implementations have different sets of parameters and different returns. Compiler distinguishes by the parameters when method is called.
 
 1. How do you call a method that requires arguments?
     + place the arguments in the place of the parameters
 
-1. How do you write a method, that is, specify the method definition, that requires a parameter list?
+1. How do you write a method, that is, specify the method de 
+finition, that requires a parameter list?
     + you wite the methodname and the argumentlist methodname(arguementlist). you must specfiy varible type.
 
-1. How do you specify a parameter as optional when defining a method?
+1. How do you specify a parameter as optional when defi 
+ning a method?
     + use a void and do not supply a return value. In the method definition assign the varaiable in a parameter list a value making it optional.
     + EX: public static int getsum(int v1, int v2 =10)
 
