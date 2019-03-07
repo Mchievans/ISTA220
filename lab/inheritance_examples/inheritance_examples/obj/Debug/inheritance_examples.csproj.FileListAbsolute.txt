@@ -1,0 +1,7 @@
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\inheritance_examples\inheritance_examples\bin\Debug\inheritance_examples.exe.config
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\inheritance_examples\inheritance_examples\bin\Debug\inheritance_examples.exe
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\inheritance_examples\inheritance_examples\bin\Debug\inheritance_examples.pdb
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\inheritance_examples\inheritance_examples\obj\Debug\inheritance_examples.csprojAssemblyReference.cache
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\inheritance_examples\inheritance_examples\obj\Debug\inheritance_examples.csproj.CoreCompileInputs.cache
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\inheritance_examples\inheritance_examples\obj\Debug\inheritance_examples.exe
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\inheritance_examples\inheritance_examples\obj\Debug\inheritance_examples.pdb

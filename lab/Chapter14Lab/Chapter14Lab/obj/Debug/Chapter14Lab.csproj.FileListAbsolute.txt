@@ -1,0 +1,7 @@
+C:\ISTA220\lab\Chapter14Lab\Chapter14Lab\bin\Debug\Chapter14Lab.exe.config
+C:\ISTA220\lab\Chapter14Lab\Chapter14Lab\bin\Debug\Chapter14Lab.exe
+C:\ISTA220\lab\Chapter14Lab\Chapter14Lab\bin\Debug\Chapter14Lab.pdb
+C:\ISTA220\lab\Chapter14Lab\Chapter14Lab\obj\Debug\Chapter14Lab.csprojAssemblyReference.cache
+C:\ISTA220\lab\Chapter14Lab\Chapter14Lab\obj\Debug\Chapter14Lab.csproj.CoreCompileInputs.cache
+C:\ISTA220\lab\Chapter14Lab\Chapter14Lab\obj\Debug\Chapter14Lab.exe
+C:\ISTA220\lab\Chapter14Lab\Chapter14Lab\obj\Debug\Chapter14Lab.pdb

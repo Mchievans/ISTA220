@@ -1,0 +1,7 @@
+C:\ISTA220\lab\test\test\bin\Debug\test.exe.config
+C:\ISTA220\lab\test\test\bin\Debug\test.exe
+C:\ISTA220\lab\test\test\bin\Debug\test.pdb
+C:\ISTA220\lab\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\ISTA220\lab\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\ISTA220\lab\test\test\obj\Debug\test.exe
+C:\ISTA220\lab\test\test\obj\Debug\test.pdb

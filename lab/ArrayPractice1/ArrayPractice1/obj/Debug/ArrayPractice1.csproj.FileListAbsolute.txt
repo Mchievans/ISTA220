@@ -1,0 +1,7 @@
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\ArrayPractice1\ArrayPractice1\bin\Debug\ArrayPractice1.exe.config
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\ArrayPractice1\ArrayPractice1\bin\Debug\ArrayPractice1.exe
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\ArrayPractice1\ArrayPractice1\bin\Debug\ArrayPractice1.pdb
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\ArrayPractice1\ArrayPractice1\obj\Debug\ArrayPractice1.csprojAssemblyReference.cache
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\ArrayPractice1\ArrayPractice1\obj\Debug\ArrayPractice1.csproj.CoreCompileInputs.cache
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\ArrayPractice1\ArrayPractice1\obj\Debug\ArrayPractice1.exe
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\ArrayPractice1\ArrayPractice1\obj\Debug\ArrayPractice1.pdb

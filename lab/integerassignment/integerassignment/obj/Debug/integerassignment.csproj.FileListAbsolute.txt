@@ -1,0 +1,7 @@
+C:\ISTA220\lab\integerassignment\integerassignment\bin\Debug\integerassignment.exe.config
+C:\ISTA220\lab\integerassignment\integerassignment\bin\Debug\integerassignment.exe
+C:\ISTA220\lab\integerassignment\integerassignment\bin\Debug\integerassignment.pdb
+C:\ISTA220\lab\integerassignment\integerassignment\obj\Debug\integerassignment.csprojAssemblyReference.cache
+C:\ISTA220\lab\integerassignment\integerassignment\obj\Debug\integerassignment.csproj.CoreCompileInputs.cache
+C:\ISTA220\lab\integerassignment\integerassignment\obj\Debug\integerassignment.exe
+C:\ISTA220\lab\integerassignment\integerassignment\obj\Debug\integerassignment.pdb

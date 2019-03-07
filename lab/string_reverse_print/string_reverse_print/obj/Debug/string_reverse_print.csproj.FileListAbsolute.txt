@@ -1,0 +1,7 @@
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\string_reverse_print\string_reverse_print\bin\Debug\string_reverse_print.exe.config
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\string_reverse_print\string_reverse_print\bin\Debug\string_reverse_print.exe
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\string_reverse_print\string_reverse_print\bin\Debug\string_reverse_print.pdb
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\string_reverse_print\string_reverse_print\obj\Debug\string_reverse_print.csprojAssemblyReference.cache
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\string_reverse_print\string_reverse_print\obj\Debug\string_reverse_print.csproj.CoreCompileInputs.cache
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\string_reverse_print\string_reverse_print\obj\Debug\string_reverse_print.exe
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\string_reverse_print\string_reverse_print\obj\Debug\string_reverse_print.pdb

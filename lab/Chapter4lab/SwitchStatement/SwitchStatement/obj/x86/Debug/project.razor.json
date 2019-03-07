@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\ISTA220\\lab\\chapter 4\\SwitchStatement\\SwitchStatement\\SwitchStatement.csproj",
+  "TargetFramework": "v5.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

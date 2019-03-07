@@ -1,0 +1,7 @@
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\arrayPrintnonduplicates\arrayPrintnonduplicates\bin\Debug\arrayPrintnonduplicates.exe.config
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\arrayPrintnonduplicates\arrayPrintnonduplicates\bin\Debug\arrayPrintnonduplicates.exe
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\arrayPrintnonduplicates\arrayPrintnonduplicates\bin\Debug\arrayPrintnonduplicates.pdb
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\arrayPrintnonduplicates\arrayPrintnonduplicates\obj\Debug\arrayPrintnonduplicates.csprojAssemblyReference.cache
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\arrayPrintnonduplicates\arrayPrintnonduplicates\obj\Debug\arrayPrintnonduplicates.csproj.CoreCompileInputs.cache
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\arrayPrintnonduplicates\arrayPrintnonduplicates\obj\Debug\arrayPrintnonduplicates.exe
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\scrap\arrayPrintnonduplicates\arrayPrintnonduplicates\obj\Debug\arrayPrintnonduplicates.pdb

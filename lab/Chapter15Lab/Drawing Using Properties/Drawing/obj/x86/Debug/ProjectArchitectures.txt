@@ -1,0 +1,1 @@
+C:\ISTA220\lab\Chapter 15\Drawing Using Properties\Drawing\Drawing.csproj;x86

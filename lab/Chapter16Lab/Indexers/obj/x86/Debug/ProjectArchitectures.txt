@@ -1,0 +1,1 @@
+C:\ISTA220\lab\Chapter16\Indexers\Indexers.csproj;x86

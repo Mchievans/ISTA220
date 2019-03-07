@@ -1,0 +1,14 @@
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\Microsoft Press\VCSBS\Chapter 7\Classes\Classes\bin\Debug\Classes.exe.config
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\Microsoft Press\VCSBS\Chapter 7\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\Microsoft Press\VCSBS\Chapter 7\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\Microsoft Press\VCSBS\Chapter 7\Classes\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\Microsoft Press\VCSBS\Chapter 7\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\Microsoft Press\VCSBS\Chapter 7\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\Malachi-admin\Documents\School\MSSA\Software\Microsoft Press\VCSBS\Chapter 7\Classes\Classes\obj\Debug\Classes.pdb
+C:\ISTA220\lab\Classes\Classes\bin\Debug\Classes.exe.config
+C:\ISTA220\lab\Classes\Classes\bin\Debug\Classes.exe
+C:\ISTA220\lab\Classes\Classes\bin\Debug\Classes.pdb
+C:\ISTA220\lab\Classes\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\ISTA220\lab\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\ISTA220\lab\Classes\Classes\obj\Debug\Classes.exe
+C:\ISTA220\lab\Classes\Classes\obj\Debug\Classes.pdb

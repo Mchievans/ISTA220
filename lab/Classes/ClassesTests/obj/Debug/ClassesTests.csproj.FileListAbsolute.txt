@@ -1,0 +1,17 @@
+C:\ISTA220\lab\Classes\ClassesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ISTA220\lab\Classes\ClassesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ISTA220\lab\Classes\ClassesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ISTA220\lab\Classes\ClassesTests\bin\Debug\ClassesTests.dll
+C:\ISTA220\lab\Classes\ClassesTests\bin\Debug\ClassesTests.pdb
+C:\ISTA220\lab\Classes\ClassesTests\bin\Debug\Classes.exe
+C:\ISTA220\lab\Classes\ClassesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ISTA220\lab\Classes\ClassesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ISTA220\lab\Classes\ClassesTests\bin\Debug\Classes.pdb
+C:\ISTA220\lab\Classes\ClassesTests\bin\Debug\Classes.exe.config
+C:\ISTA220\lab\Classes\ClassesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ISTA220\lab\Classes\ClassesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ISTA220\lab\Classes\ClassesTests\obj\Debug\ClassesTests.csprojAssemblyReference.cache
+C:\ISTA220\lab\Classes\ClassesTests\obj\Debug\ClassesTests.csproj.CoreCompileInputs.cache
+C:\ISTA220\lab\Classes\ClassesTests\obj\Debug\ClassesTests.csproj.CopyComplete
+C:\ISTA220\lab\Classes\ClassesTests\obj\Debug\ClassesTests.dll
+C:\ISTA220\lab\Classes\ClassesTests\obj\Debug\ClassesTests.pdb
