@@ -1,6 +1,6 @@
 {
-  "ProjectFilePath": "c:\\ISTA220\\lab\\Chapter09Lab\\StructsAndEnums\\StructsAndEnums.csproj",
-  "TargetFramework": "v4.6",
+  "ProjectFilePath": "c:\\ISTA220\\lab\\test09\\test\\test.csproj",
+  "TargetFramework": "v4.6.1",
   "TagHelpers": [],
   "Configuration": {
     "ConfigurationName": "UnsupportedRazor",
